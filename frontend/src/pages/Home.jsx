@@ -79,6 +79,17 @@ export default function Home() {
                         <p><strong>Visit us:</strong> 310 G 224 Amptana Antsirabe</p>
                         <p><strong>Call us:</strong> +261 34 55 504 44</p>
                         <p><strong>Email:</strong> claudio.andriaan@gmail.com</p>
+                        <p className="text-[15px] italic ">
+                            <span className="text-[#0d4b4f]">
+                                "
+                                Outrovaert is an independent label for musical and sonic experiments,
+                                <br />
+                                founded by Claudio Andriniaina in 2026.
+                                <br />
+                                All records are shipped from Antsirabe, Madagascar.
+                                "
+                            </span>
+                        </p>
                     </div>
                     </div>
                 </div>
